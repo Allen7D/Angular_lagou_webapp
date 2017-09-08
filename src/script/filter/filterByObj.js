@@ -1,5 +1,8 @@
 'use strict';
 angular.module('app').filter('filterByObj', [function(){
+  /*
+   * list是否满足obj的条件
+   */
   return function(list, obj) {
     var result = [];
     angular.forEach(list, function(item){
