@@ -6,8 +6,9 @@ angular.module('app').config(['$stateProvider', '$urlRouterProvider', function($
     url: '/main',
     templateUrl: 'view/main.html',
     controller: 'mainCtrl' //命名规则； controller在前端与用户交互
+    //多个路由，用链式的方法。.state(...)
   }).state('position', {
-    url: '/position/:id',
+    url: '/position/:id',//基于id切换职位
     templateUrl: 'view/position.html',
     controller: 'positionCtrl'
   }).state('company', {
