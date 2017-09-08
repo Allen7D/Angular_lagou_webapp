@@ -10018,9 +10018,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="0">
               <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
               <folding />
@@ -10033,6 +10034,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
               <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+=======
+            <state relative-caret-position="15">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+>>>>>>> 7f5192a6ee862d9ab4eff7c87fd33a6e353a3714
               <folding />
             </state>
           </provider>
@@ -10048,15 +10053,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="0">
 <<<<<<< HEAD
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
 =======
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
 >>>>>>> f09dd1030ededcdb52e8f61d3e4d584545020511
+=======
+            <state relative-caret-position="390">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+>>>>>>> 7f5192a6ee862d9ab4eff7c87fd33a6e353a3714
               <folding />
             </state>
           </provider>
@@ -10310,15 +10320,20 @@
       <workItem from="1504444699229" duration="10000" />
       <workItem from="1504495511098" duration="14641000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1504683604967" duration="5584000" />
       <workItem from="1504853586751" duration="826000" />
 =======
       <workItem from="1504683604967" duration="7339000" />
 >>>>>>> f09dd1030ededcdb52e8f61d3e4d584545020511
+=======
+      <workItem from="1504683604967" duration="8020000" />
+>>>>>>> 7f5192a6ee862d9ab4eff7c87fd33a6e353a3714
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="63899000" />
   </component>
@@ -10332,6 +10347,13 @@
     <frame x="2086" y="-257" width="960" height="1006" extended-state="0" />
     <editor active="false" />
 >>>>>>> f09dd1030ededcdb52e8f61d3e4d584545020511
+=======
+    <option name="totallyTimeSpent" value="65509000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2086" y="-257" width="960" height="1006" extended-state="0" />
+    <editor active="true" />
+>>>>>>> 7f5192a6ee862d9ab4eff7c87fd33a6e353a3714
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32708332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -10721,6 +10743,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -10734,6 +10757,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 7f5192a6ee862d9ab4eff7c87fd33a6e353a3714
     <entry file="file://$PROJECT_DIR$/.bowerrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -10755,31 +10780,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/build/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
         <state relative-caret-position="450">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
 =======
         <state relative-caret-position="0">
+<<<<<<< HEAD
           <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
 >>>>>>> f09dd1030ededcdb52e8f61d3e4d584545020511
+=======
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 7f5192a6ee862d9ab4eff7c87fd33a6e353a3714
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/js/index.js">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
 <<<<<<< HEAD
           <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
 =======
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
 >>>>>>> f09dd1030ededcdb52e8f61d3e4d584545020511
+=======
+        <state relative-caret-position="390">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+>>>>>>> 7f5192a6ee862d9ab4eff7c87fd33a6e353a3714
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -10791,6 +10826,20 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
 >>>>>>> f09dd1030ededcdb52e8f61d3e4d584545020511
+=======
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+>>>>>>> 7f5192a6ee862d9ab4eff7c87fd33a6e353a3714
           <folding />
         </state>
       </provider>
